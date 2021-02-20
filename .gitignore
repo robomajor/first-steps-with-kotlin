@@ -17,3 +17,12 @@ hello-world-kotlin/gradlew
 hello-world-kotlin/gradlew.bat
 hello-world-kotlin/settings.gradle.kts
 hello-world-kotlin/gradle.properties
+
+null-classes-and-generics/.idea/
+null-classes-and-generics/.gradle/
+null-classes-and-generics/build/
+null-classes-and-generics/gradle/
+null-classes-and-generics/gradlew
+null-classes-and-generics/gradlew.bat
+null-classes-and-generics/settings.gradle.kts
+null-classes-and-generics/gradle.properties
