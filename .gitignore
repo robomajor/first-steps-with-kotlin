@@ -8,6 +8,7 @@ introduction-to-functions/gradlew
 introduction-to-functions/gradlew.bat
 introduction-to-functions/settings.gradle.kts
 introduction-to-functions/gradle.properties
+introduction-to-functions/build.gradle.kts
 
 hello-world-kotlin/.idea/
 hello-world-kotlin/.gradle/
@@ -17,6 +18,7 @@ hello-world-kotlin/gradlew
 hello-world-kotlin/gradlew.bat
 hello-world-kotlin/settings.gradle.kts
 hello-world-kotlin/gradle.properties
+hello-world-kotlin/build.gradle.kts
 
 null-classes-and-generics/.idea/
 null-classes-and-generics/.gradle/
@@ -26,3 +28,14 @@ null-classes-and-generics/gradlew
 null-classes-and-generics/gradlew.bat
 null-classes-and-generics/settings.gradle.kts
 null-classes-and-generics/gradle.properties
+null-classes-and-generics/build.gradle.kts
+
+inheritance/.idea/
+inheritance/.gradle/
+inheritance/build/
+inheritance/gradle/
+inheritance/gradlew
+inheritance/gradlew.bat
+inheritance/settings.gradle.kts
+inheritance/gradle.properties
+inheritance/build.gradle.kts
